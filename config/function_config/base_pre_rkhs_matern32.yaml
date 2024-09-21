@@ -1,0 +1,14 @@
+type: "pre_rkhs_matern32"
+noise_lvl: 0.01
+domain_size: 1
+domain_bounds: [0, 1]
+
+# rkhs function specific parameters
+gamma: 0.2
+kernel: Matern
+n_basepoints: 10
+n_bfuncs_min: 10
+sampling: pre_rkhs
+rkhs_norm: 10
+nu: 1.5
+path: config/rkhs_function_configs/pre_rkhs_matern32/

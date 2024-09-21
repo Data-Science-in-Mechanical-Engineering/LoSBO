@@ -1,0 +1,13 @@
+type: "se" 
+learn_hyperparameters: false
+ard: false
+lengthscale: 
+  prior_mean: 0.05
+  prior_std: 1
+outputscale: 
+  prior_mean: 1
+  prior_std: 1
+prior_mean: 0.5
+noise: 
+  prior_mean: 0.01
+  prior_std: 1

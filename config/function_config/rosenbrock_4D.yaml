@@ -1,0 +1,11 @@
+type: "rosenbrock4d"
+lipschitz_constant: 3
+noise_lvl: 0.001 
+domain_size: 4
+domain_bounds: 
+  - [-2, 2]
+  - [-2, 2]
+  - [-2, 2]
+  - [-2, 2]
+safety_threshold: 0 # safety threshold
+optimum: 1

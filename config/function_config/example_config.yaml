@@ -1,0 +1,31 @@
+type: "example"
+lipschitz_constant: 0.5 Lipschitz: 41.096678340622326
+noise_lvl: 0.01 
+domain_size: 2
+domain_bounds: 
+  - [-5, 10]
+  - [0, 15]
+
+optimum: 1 optimum_value_noiseless: 9.240073817177073
+sampling: pre_rkhs_matern
+gamma: 0.2
+kernel: Matern
+n_base_points: 10
+noise_level_data: 0.01
+nu: 1.5
+rkhs_norm: 10
+function_number: 0
+safety_threshold: 0 safety_threshhold: 2.237241631498235
+
+
+mean: 2.7410125179676146
+
+
+random_seed: 0
+reachable_safe_set:
+- 0.725
+- 1.0
+
+
+sampling: pre_rkhs
+std: 2.5188544323468967

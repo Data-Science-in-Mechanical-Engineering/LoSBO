@@ -1,0 +1,5 @@
+results_path: results
+experiment_name: hartmann_6D
+losbo_config: ucb_constant
+kernel_config: se
+function_config: hartmann_6D

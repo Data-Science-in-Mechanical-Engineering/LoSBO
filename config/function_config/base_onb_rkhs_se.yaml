@@ -1,0 +1,15 @@
+type: "rkhs_onb_se"
+noise_lvl: 0.01
+domain_size: 1
+domain_bounds: [0, 1]
+
+# rkhs function specific parameters
+gamma: 0.2
+kernel: SE
+n_base_points: 10
+n_bfuncs_min: 10
+sampling: onb
+rkhs_norm: 10
+path: config/rkhs_function_configs/onb_rkhs_se/
+
+

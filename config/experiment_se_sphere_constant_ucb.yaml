@@ -1,0 +1,5 @@
+results_path: results
+experiment_name: se_sphere_2D_constatnt_ucb
+losbo_config: ucb_constant
+kernel_config: se
+function_config: sphere_2D

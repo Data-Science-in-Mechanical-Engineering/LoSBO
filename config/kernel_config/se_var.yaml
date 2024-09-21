@@ -1,0 +1,13 @@
+type: "se_var" # should be matern52 with hyperparameter optimization
+learn_hyperparameters: true
+ard: true
+lengthscale: 
+  prior_mean: 0.2
+  prior_std: 1
+outputscale: 
+  prior_mean: 1
+  prior_std: 1
+prior_mean: 0.5
+noise: 
+  prior_mean: 0.01
+  prior_std: 1

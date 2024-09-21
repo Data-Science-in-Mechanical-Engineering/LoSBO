@@ -1,0 +1,5 @@
+results_path: results
+experiment_name: se_camel_2D
+losbo_config: ucb_constant
+kernel_config: se
+function_config: camel_2D

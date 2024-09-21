@@ -1,0 +1,24 @@
+domain_bounds:
+- 0
+- 1
+domain_size: 1
+function_number: 12
+gamma: 0.2
+kernel: Matern
+lipschitz_constant: 26.204153858438747
+mean: 2.366214351236213
+n_basepoints: 10
+n_bfuncs_min: 10
+noise_lvl: 0.01
+nu: 1.5
+optimum: 4.538932949649736
+path: config/rkhs_function_configs/pre_rkhs_matern32/
+random_seed: 12
+reachable_safe_set:
+- 0.635
+- 0.905
+rkhs_norm: 10
+safety_threshold: 2.06274317513488
+sampling: onb
+std: 1.5173558805066634
+type: pre_rkhs_matern32

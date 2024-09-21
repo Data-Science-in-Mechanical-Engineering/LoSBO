@@ -1,0 +1,13 @@
+type: "sphere6D"
+lipschitz_constant: 2
+noise_lvl: 0.01 
+domain_size: 6
+domain_bounds: 
+  - [0, 1]
+  - [0, 1]
+  - [0, 1]
+  - [0, 1]
+  - [0, 1]
+  - [0, 1]
+safety_threshold: 0 # safety threshold
+optimum: 1

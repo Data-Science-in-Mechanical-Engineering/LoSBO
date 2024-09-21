@@ -1,0 +1,5 @@
+results_path: results
+experiment_name: pre_rkhs_matern32
+losbo_config: ucb_constant_losbo
+kernel_config: matern
+function_config: base_pre_rkhs_matern32

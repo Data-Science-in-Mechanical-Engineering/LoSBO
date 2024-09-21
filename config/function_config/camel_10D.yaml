@@ -1,0 +1,17 @@
+type: "camel_10D"
+lipschitz_constant: 15
+noise_lvl: 0.05 
+domain_size: 10
+domain_bounds: 
+  - [-2, 2]
+  - [-1, 1]
+  - [-1, 1]
+  - [-1, 1]
+  - [-1, 1]
+  - [-1, 1]
+  - [-1, 1]
+  - [-1, 1]
+  - [-1, 1]
+  - [-1, 1]
+safety_threshold: 0 # safety threshold
+optimum: 1.0316

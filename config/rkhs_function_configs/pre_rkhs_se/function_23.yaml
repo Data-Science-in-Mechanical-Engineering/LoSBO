@@ -1,0 +1,23 @@
+domain_bounds:
+- 0
+- 1
+domain_size: 1
+function_number: 23
+gamma: 0.2
+kernel: SE
+lipschitz_constant: 24.98177248184994
+mean: -1.3583468108212788
+n_basepoints: 10
+n_bfuncs_min: 10
+noise_lvl: 0.01
+optimum: 2.7618163209456137
+path: config/rkhs_function_configs/pre_rkhs_se/
+random_seed: 23
+reachable_safe_set:
+- 0.0
+- 0.483
+rkhs_norm: 10
+safety_threshold: -1.8843059574601697
+sampling: onb
+std: 2.629795733194455
+type: pre_rkhs_se

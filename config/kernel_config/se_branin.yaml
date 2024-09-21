@@ -1,0 +1,14 @@
+type: "se" # should be matern52 with hyperparameter optimization
+lengthscale: 
+  optimize: false
+  prior_mean: 1
+  prior_std: 1
+outputscale: 
+  optimize: false
+  prior_mean: 1
+  prior_std: 1
+prior_mean: 0.5
+noise: 
+  optimize: false
+  prior_mean: 0.01
+  prior_std: 1

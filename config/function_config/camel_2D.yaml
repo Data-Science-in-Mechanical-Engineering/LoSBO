@@ -1,0 +1,9 @@
+type: "camel_2D"
+lipschitz_constant: 20
+noise_lvl: 0.01
+domain_size: 2
+domain_bounds: 
+  - [-2, 2]
+  - [-1, 1]
+safety_threshold: 0 # safety threshold
+optimum: 1.0316
